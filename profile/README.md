@@ -1,7 +1,5 @@
 # Promptable AI
 
-![Promptable AI Logo](https://github.com/Promptable-AI/.github/raw/main/profile/owl_logo.png)
-
 ## Making Intelligent Systems Promptable
 
 Promptable AI is focused on building promptable intelligent systems for precision medicine and research. We create AI systems that understand traditional bioinformatics workflows and know when to apply them, while also being able to agentically run and scale workloads.
