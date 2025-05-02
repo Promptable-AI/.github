@@ -14,7 +14,7 @@ We believe bioinformatics should be accessible to all researchers, regardless of
 Intelligent notebooks that demonstrate how to make complex bioinformatics workflows accessible through natural language prompts.
 
 ### [BioCrew](https://github.com/Promptable-AI/biocrew)
-A coordinated team of specialized AI agents that autonomously execute and optimize bioinformatics workflows across Seven Bridges, Terra, and DNAnexus platforms.
+A coordinated team of specialized AI agents that autonomously execute and optimize bioinformatics workflows across cloud platforms.
 
 ## Monthly Modality Series
 
@@ -29,10 +29,10 @@ Follow our repositories to stay updated as we release new content each month!
 
 ## Platform Integrations
 
-We're building integrations with leading bioinformatics platforms:
-- Seven Bridges
-- Terra
-- DNAnexus
+We're building integrations with top cloud platforms:
+- GCP
+- AWS
+- Azure
 
 ## Get Involved
 
