@@ -1,8 +1,8 @@
-# Promptable AI
+# Promptable Cloud
 
 ## Making Intelligent Systems Promptable
 
-Promptable AI is focused on building promptable intelligent systems for precision medicine and research. We create AI systems that understand traditional bioinformatics workflows and know when to apply them, while also being able to agentically run and scale workloads.
+**Promptable** is focused on building promptable intelligent systems for precision medicine and research. We create AI systems that understand traditional bioinformatics workflows and know when to apply them, while also being able to agentically run and scale workloads.
 
 ## Our Vision
 
@@ -43,7 +43,7 @@ We're building integrations with top cloud platforms:
 
 ## Contact
 
-- Website: [promptable.ai](https://www.promptable.ai)
-- Email: hello@promptable.ai
+- Website: [promptable.cloud](https://www.promptable.cloud)
+- Email: hello@promptable.cloud
 
 Join us in making bioinformatics promptable!
