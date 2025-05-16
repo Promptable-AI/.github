@@ -1,4 +1,4 @@
-# Promptable Cloud
+# Promptable
 
 ## Making Intelligent Systems Promptable
 
