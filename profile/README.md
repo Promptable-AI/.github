@@ -1,4 +1,4 @@
-# Promptable™
+# Promptable
 
 
 ## Making Intelligent Systems Promptable
