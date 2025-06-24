@@ -12,9 +12,9 @@ Promptable transforms scientific computing from a technical barrier into an intu
 
 ## Community
 
-🔬 **[Workflow Library](https://workflowlibrary.org)** - Our open community platform for sharing and optimizing scientific protocols
+🔬 **[Workflow Library](https://workflowlibrary.org)** - Our open community platform for sharing and optimizing scientific protocols (coming soon)
 
-📚 **[Protocol Repository](https://github.com/workflowlibrary)** - Git-based collaborative development of computational protocols
+📚 **[Protocol Repository](https://github.com/workflow-library)** - Git-based collaborative development of computational protocols
 
 ## Technology
 
